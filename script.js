@@ -45,7 +45,7 @@ function page3(){
         scrollTrigger:{
             trigger:".page3-inside",
             scroller:"body",
-            markers:true,
+            markers:false,
             start:"-10% top",
             end:"100% 60%",
             scrub:1.2,
